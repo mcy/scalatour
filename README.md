@@ -117,7 +117,7 @@ Language Spec, for the brave: http://www.scala-lang.org/files/archive/spec/2.11/
     - `reify { ... }` and quasiquotes
     - (*Very Unlikely*) Macros
 - Typechecking
-- `javap` (maybe also some frenflower?)
+- `javap` (maybe also some fernflower?)
 - Implementations of features like
     - Mixins
     - Structual types
